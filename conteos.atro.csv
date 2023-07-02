@@ -1,7 +1,7 @@
 taxon;provincia;mes;anno;cuantos
 Amphibia;Guanacaste;diciembre;2013;5
-Amphibia;Limón;abril;2014;33
-Amphibia;Limón;mayo;2014;15
+Amphibia;LimÃ³n;abril;2014;33
+Amphibia;LimÃ³n;mayo;2014;15
 Amphibia;Alajuela;abril;2014;1
 Amphibia;Alajuela;mayo;2014;38
 Amphibia;Guanacaste;mayo;2014;1
@@ -11,13 +11,13 @@ Amphibia;Cartago;octubre;2014;2
 Amphibia;Guanacaste;noviembre;2014;1
 Amphibia;Puntarenas;diciembre;2014;1
 Amphibia;Puntarenas;febrero;2015;1
-Amphibia;Limón;julio;2015;1
-Amphibia;Limón;agosto;2015;1
+Amphibia;LimÃ³n;julio;2015;1
+Amphibia;LimÃ³n;agosto;2015;1
 Amphibia;Puntarenas;abril;2016;35
-Amphibia;Limón;junio;2016;1
+Amphibia;LimÃ³n;junio;2016;1
 Amphibia;Guanacaste;octubre;2016;1
 Amphibia;Guanacaste;agosto;2017;1
-Amphibia;San José;agosto;2017;1
+Amphibia;San JosÃ©;agosto;2017;1
 Amphibia;Heredia;noviembre;2017;1
 Amphibia;Alajuela;octubre;2018;1
 Amphibia;Cartago;julio;2019;1
@@ -32,16 +32,16 @@ Amphibia;Puntarenas;julio;2020;1
 Amphibia;Heredia;agosto;2020;1
 Amphibia;Puntarenas;agosto;2020;1
 Amphibia;Guanacaste;agosto;2020;7
-Amphibia;Limón;octubre;2020;1
+Amphibia;LimÃ³n;octubre;2020;1
 Amphibia;Guanacaste;diciembre;2020;2
 Amphibia;Puntarenas;diciembre;2020;1
 Amphibia;Guanacaste;mayo;2021;2
 Amphibia;Heredia;mayo;2021;1
-Amphibia;San José;mayo;2021;1
-Amphibia;Limón;junio;2021;1
+Amphibia;San JosÃ©;mayo;2021;1
+Amphibia;LimÃ³n;junio;2021;1
 Amphibia;Guanacaste;junio;2021;3
-Amphibia;San José;junio;2021;1
-Amphibia;Limón;julio;2021;1
+Amphibia;San JosÃ©;junio;2021;1
+Amphibia;LimÃ³n;julio;2021;1
 Amphibia;Guanacaste;julio;2021;2
 Amphibia;Guanacaste;agosto;2021;2
 Amphibia;Puntarenas;agosto;2021;1
@@ -50,8 +50,8 @@ Amphibia;Alajuela;marzo;2022;1
 Amphibia;Guanacaste;abril;2022;1
 Amphibia;Guanacaste;mayo;2022;2
 Birds;Guanacaste;diciembre;2013;2
-Birds;Limón;abril;2014;12
-Birds;Limón;mayo;2014;13
+Birds;LimÃ³n;abril;2014;12
+Birds;LimÃ³n;mayo;2014;13
 Birds;Cartago;abril;2014;1
 Birds;Heredia;mayo;2014;1
 Birds;Alajuela;mayo;2014;2
@@ -66,29 +66,29 @@ Birds;Puntarenas;diciembre;2014;1
 Birds;Guanacaste;diciembre;2014;1
 Birds;Heredia;enero;2015;1
 Birds;Puntarenas;febrero;2015;1
-Birds;Limón;febrero;2015;2
+Birds;LimÃ³n;febrero;2015;2
 Birds;Puntarenas;marzo;2015;1
 Birds;Guanacaste;marzo;2015;4
 Birds;Alajuela;marzo;2015;1
 Birds;Heredia;marzo;2015;2
 Birds;Heredia;mayo;2015;3
-Birds;Limón;junio;2015;2
-Birds;Limón;julio;2015;1
-Birds;Limón;setiembre;2015;1
+Birds;LimÃ³n;junio;2015;2
+Birds;LimÃ³n;julio;2015;1
+Birds;LimÃ³n;setiembre;2015;1
 Birds;Puntarenas;diciembre;2016;1
 Birds;Heredia;marzo;2016;1
 Birds;Puntarenas;abril;2016;9
 Birds;Puntarenas;junio;2016;4
-Birds;San José;junio;2016;1
+Birds;San JosÃ©;junio;2016;1
 Birds;Alajuela;junio;2016;1
-Birds;Limón;junio;2016;1
+Birds;LimÃ³n;junio;2016;1
 Birds;Puntarenas;mayo;2016;1
 Birds;Puntarenas;agosto;2017;1
 Birds;Guanacaste;marzo;2019;1
-Birds;San José;agosto;2019;1
+Birds;San JosÃ©;agosto;2019;1
 Birds;Guanacaste;setiembre;2019;1
 Birds;Guanacaste;febrero;2020;1
-Birds;San José;febrero;2020;1
+Birds;San JosÃ©;febrero;2020;1
 Birds;Guanacaste;marzo;2020;1
 Birds;Alajuela;mayo;2020;1
 Birds;Heredia;junio;2020;1
@@ -102,12 +102,12 @@ Birds;Guanacaste;marzo;2021;1
 Birds;Alajuela;mayo;2021;1
 Birds;Guanacaste;mayo;2021;1
 Birds;Puntarenas;junio;2021;1
-Birds;Limón;junio;2021;1
+Birds;LimÃ³n;junio;2021;1
 Birds;Alajuela;junio;2021;2
 Birds;Cartago;junio;2021;1
 Birds;Heredia;julio;2021;1
 Birds;Guanacaste;julio;2021;1
-Birds;Limón;julio;2021;1
+Birds;LimÃ³n;julio;2021;1
 Birds;Guanacaste;agosto;2021;1
 Birds;Puntarenas;setiembre;2021;2
 Birds;Puntarenas;mayo;2021;1
@@ -133,10 +133,10 @@ Mammalia;Puntarenas;noviembre;2013;1
 Mammalia;Guanacaste;abril;2014;8
 Mammalia;Alajuela;abril;2014;2
 Mammalia;Puntarenas;enero;2014;1
-Mammalia;Limón;abril;2014;27
-Mammalia;San José;abril;2014;1
+Mammalia;LimÃ³n;abril;2014;27
+Mammalia;San JosÃ©;abril;2014;1
 Mammalia;Guanacaste;mayo;2014;6
-Mammalia;Limón;mayo;2014;10
+Mammalia;LimÃ³n;mayo;2014;10
 Mammalia;Puntarenas;mayo;2014;5
 Mammalia;Alajuela;mayo;2014;3
 Mammalia;Puntarenas;junio;2014;4
@@ -145,28 +145,28 @@ Mammalia;Puntarenas;julio;2014;4
 Mammalia;Guanacaste;julio;2014;5
 Mammalia;Alajuela;julio;2014;2
 Mammalia;Cartago;julio;2014;1
-Mammalia;Limón;julio;2014;3
+Mammalia;LimÃ³n;julio;2014;3
 Mammalia;Heredia;julio;2014;1
 Mammalia;Guanacaste;agosto;2014;9
-Mammalia;Limón;agosto;2014;3
+Mammalia;LimÃ³n;agosto;2014;3
 Mammalia;Puntarenas;agosto;2014;1
 Mammalia;Puntarenas;setiembre;2014;8
 Mammalia;Alajuela;setiembre;2014;3
 Mammalia;Guanacaste;setiembre;2014;2
-Mammalia;Limón;setiembre;2014;2
-Mammalia;San José;setiembre;2014;1
+Mammalia;LimÃ³n;setiembre;2014;2
+Mammalia;San JosÃ©;setiembre;2014;1
 Mammalia;Heredia;setiembre;2014;5
 Mammalia;Heredia;octubre;2014;4
 Mammalia;Guanacaste;octubre;2014;5
 Mammalia;Puntarenas;octubre;2014;3
 Mammalia;Cartago;octubre;2014;1
 Mammalia;Guanacaste;noviembre;2014;8
-Mammalia;San José;noviembre;2014;1
+Mammalia;San JosÃ©;noviembre;2014;1
 Mammalia;Puntarenas;noviembre;2014;1
 Mammalia;Alajuela;noviembre;2014;1
 Mammalia;Puntarenas;diciembre;2014;2
 Mammalia;Heredia;diciembre;2014;2
-Mammalia;Limón;diciembre;2014;2
+Mammalia;LimÃ³n;diciembre;2014;2
 Mammalia;Alajuela;diciembre;2014;2
 Mammalia;Guanacaste;diciembre;2014;2
 Mammalia;Heredia;enero;2015;3
@@ -174,215 +174,215 @@ Mammalia;Cartago;enero;2015;1
 Mammalia;Puntarenas;febrero;2015;9
 Mammalia;Heredia;febrero;2015;2
 Mammalia;Cartago;febrero;2015;1
-Mammalia;Limón;febrero;2015;6
-Mammalia;San José;febrero;2015;2
+Mammalia;LimÃ³n;febrero;2015;6
+Mammalia;San JosÃ©;febrero;2015;2
 Mammalia;Guanacaste;febrero;2015;2
 Mammalia;Alajuela;marzo;2015;3
 Mammalia;Guanacaste;marzo;2015;4
 Mammalia;Puntarenas;marzo;2015;1
 Mammalia;Puntarenas;enero;2015;1
 Mammalia;Guanacaste;enero;2015;1
-Mammalia;Limón;marzo;2015;4
+Mammalia;LimÃ³n;marzo;2015;4
 Mammalia;Heredia;marzo;2015;3
-Mammalia;San José;marzo;2015;1
+Mammalia;San JosÃ©;marzo;2015;1
 Mammalia;Heredia;abril;2015;2
 Mammalia;Heredia;mayo;2015;4
 Mammalia;Guanacaste;abril;2015;1
 Mammalia;Alajuela;mayo;2015;2
 Mammalia;Puntarenas;mayo;2015;4
-Mammalia;Limón;mayo;2015;8
+Mammalia;LimÃ³n;mayo;2015;8
 Mammalia;Guanacaste;mayo;2015;2
 Mammalia;Puntarenas;abril;2015;1
-Mammalia;Limón;junio;2015;17
+Mammalia;LimÃ³n;junio;2015;17
 Mammalia;Heredia;junio;2015;7
-Mammalia;San José;junio;2015;1
+Mammalia;San JosÃ©;junio;2015;1
 Mammalia;Guanacaste;junio;2015;1
 Mammalia;Cartago;junio;2015;1
-Mammalia;Limón;julio;2015;17
+Mammalia;LimÃ³n;julio;2015;17
 Mammalia;Heredia;julio;2015;4
-Mammalia;San José;julio;2015;2
+Mammalia;San JosÃ©;julio;2015;2
 Mammalia;Puntarenas;julio;2015;1
 Mammalia;Guanacaste;julio;2015;6
 Mammalia;Cartago;julio;2015;2
 Mammalia;Heredia;agosto;2015;3
-Mammalia;Limón;agosto;2015;8
+Mammalia;LimÃ³n;agosto;2015;8
 Mammalia;Puntarenas;agosto;2015;4
 Mammalia;Puntarenas;setiembre;2015;1
 Mammalia;Alajuela;setiembre;2015;1
-Mammalia;Limón;setiembre;2015;1
-Mammalia;Limón;octubre;2015;14
-Mammalia;San José;octubre;2015;2
+Mammalia;LimÃ³n;setiembre;2015;1
+Mammalia;LimÃ³n;octubre;2015;14
+Mammalia;San JosÃ©;octubre;2015;2
 Mammalia;Cartago;octubre;2015;1
 Mammalia;Heredia;octubre;2015;1
-Mammalia;Limón;noviembre;2015;11
+Mammalia;LimÃ³n;noviembre;2015;11
 Mammalia;Heredia;noviembre;2015;2
 Mammalia;Puntarenas;noviembre;2015;1
 Mammalia;Cartago;noviembre;2015;1
-Mammalia;San José;noviembre;2015;1
-Mammalia;Limón;diciembre;2015;5
+Mammalia;San JosÃ©;noviembre;2015;1
+Mammalia;LimÃ³n;diciembre;2015;5
 Mammalia;Cartago;enero;2016;1
-Mammalia;San José;enero;2016;3
+Mammalia;San JosÃ©;enero;2016;3
 Mammalia;Heredia;enero;2016;2
 Mammalia;Puntarenas;enero;2016;1
 Mammalia;Puntarenas;diciembre;2015;1
 Mammalia;Cartago;febrero;2016;1
-Mammalia;San José;febrero;2016;2
+Mammalia;San JosÃ©;febrero;2016;2
 Mammalia;Puntarenas;febrero;2016;2
-Mammalia;Limón;febrero;2016;7
+Mammalia;LimÃ³n;febrero;2016;7
 Mammalia;Puntarenas;marzo;2016;1
 Mammalia;Cartago;marzo;2016;2
 Mammalia;Guanacaste;marzo;2016;8
-Mammalia;Limón;marzo;2016;1
+Mammalia;LimÃ³n;marzo;2016;1
 Mammalia;Alajuela;marzo;2016;1
 Mammalia;Alajuela;abril;2016;3
 Mammalia;Puntarenas;abril;2016;15
-Mammalia;San José;abril;2016;3
+Mammalia;San JosÃ©;abril;2016;3
 Mammalia;Guanacaste;abril;2016;1
 Mammalia;Cartago;abril;2016;3
-Mammalia;Limón;abril;2016;1
+Mammalia;LimÃ³n;abril;2016;1
 Mammalia;Heredia;mayo;2016;4
 Mammalia;Cartago;mayo;2016;2
-Mammalia;San José;mayo;2016;3
+Mammalia;San JosÃ©;mayo;2016;3
 Mammalia;Puntarenas;junio;2016;14
-Mammalia;Limón;junio;2016;7
+Mammalia;LimÃ³n;junio;2016;7
 Mammalia;Heredia;junio;2016;1
 Mammalia;Puntarenas;julio;2016;2
 Mammalia;Alajuela;julio;2016;1
-Mammalia;Limón;julio;2016;3
+Mammalia;LimÃ³n;julio;2016;3
 Mammalia;Puntarenas;agosto;2016;1
 Mammalia;Puntarenas;setiembre;2016;1
 Mammalia;Puntarenas;noviembre;2016;4
 Mammalia;Alajuela;noviembre;2016;1
-Mammalia;Limón;diciembre;2016;1
+Mammalia;LimÃ³n;diciembre;2016;1
 Mammalia;Puntarenas;diciembre;2016;1
 Mammalia;Guanacaste;marzo;2017;1
 Mammalia;Guanacaste;junio;2017;3
 Mammalia;Puntarenas;junio;2017;2
-Mammalia;Limón;junio;2017;1
+Mammalia;LimÃ³n;junio;2017;1
 Mammalia;Alajuela;junio;2017;1
 Mammalia;Guanacaste;noviembre;2017;1
 Mammalia;Puntarenas;mayo;2018;1
 Mammalia;Alajuela;setiembre;2018;1
-Mammalia;Limón;febrero;2019;1
+Mammalia;LimÃ³n;febrero;2019;1
 Mammalia;Guanacaste;marzo;2019;1
 Mammalia;Guanacaste;junio;2019;1
-Mammalia;San José;junio;2019;1
+Mammalia;San JosÃ©;junio;2019;1
 Mammalia;Alajuela;junio;2019;1
 Mammalia;Heredia;junio;2019;1
 Mammalia;Cartago;julio;2019;1
 Mammalia;Guanacaste;julio;2019;2
 Mammalia;Guanacaste;agosto;2019;1
 Mammalia;Guanacaste;setiembre;2019;1
-Mammalia;Limón;agosto;2019;1
+Mammalia;LimÃ³n;agosto;2019;1
 Mammalia;Alajuela;setiembre;2019;1
 Mammalia;Guanacaste;octubre;2019;2
 Mammalia;Guanacaste;diciembre;2019;2
-Mammalia;Limón;enero;2020;2
+Mammalia;LimÃ³n;enero;2020;2
 Mammalia;Guanacaste;enero;2020;2
 Mammalia;Guanacaste;enero;2018;2
 Mammalia;Alajuela;febrero;2020;1
 Mammalia;Guanacaste;marzo;2020;2
-Mammalia;Limón;abril;2020;1
-Mammalia;Limón;julio;2020;1
+Mammalia;LimÃ³n;abril;2020;1
+Mammalia;LimÃ³n;julio;2020;1
 Mammalia;Puntarenas;julio;2020;2
 Mammalia;Puntarenas;agosto;2020;1
 Mammalia;Puntarenas;setiembre;2020;1
-Mammalia;Limón;octubre;2020;1
+Mammalia;LimÃ³n;octubre;2020;1
 Mammalia;Guanacaste;octubre;2020;5
 Mammalia;Guanacaste;noviembre;2020;2
-Mammalia;Limón;noviembre;2020;1
+Mammalia;LimÃ³n;noviembre;2020;1
 Mammalia;Puntarenas;diciembre;2020;3
 Mammalia;Guanacaste;diciembre;2020;5
-Mammalia;San José;diciembre;2020;2
-Mammalia;Limón;enero;2021;1
+Mammalia;San JosÃ©;diciembre;2020;2
+Mammalia;LimÃ³n;enero;2021;1
 Mammalia;Guanacaste;enero;2021;1
 Mammalia;Alajuela;enero;2021;1
 Mammalia;Puntarenas;enero;2021;2
 Mammalia;Cartago;enero;2021;1
-Mammalia;San José;enero;2021;1
-Mammalia;Limón;febrero;2021;4
+Mammalia;San JosÃ©;enero;2021;1
+Mammalia;LimÃ³n;febrero;2021;4
 Mammalia;Heredia;febrero;2021;2
 Mammalia;Puntarenas;febrero;2021;4
 Mammalia;Guanacaste;febrero;2021;3
 Mammalia;Cartago;febrero;2021;1
-Mammalia;Limón;marzo;2021;2
+Mammalia;LimÃ³n;marzo;2021;2
 Mammalia;Alajuela;marzo;2021;2
-Mammalia;San José;marzo;2021;2
+Mammalia;San JosÃ©;marzo;2021;2
 Mammalia;Heredia;marzo;2021;1
 Mammalia;Alajuela;abril;2021;1
 Mammalia;Guanacaste;abril;2021;2
 Mammalia;Heredia;abril;2021;2
-Mammalia;Limón;mayo;2021;1
-Mammalia;San José;mayo;2021;1
+Mammalia;LimÃ³n;mayo;2021;1
+Mammalia;San JosÃ©;mayo;2021;1
 Mammalia;Guanacaste;mayo;2021;4
 Mammalia;Puntarenas;mayo;2021;3
 Mammalia;Guanacaste;junio;2021;3
-Mammalia;San José;junio;2021;1
-Mammalia;Limón;junio;2021;1
+Mammalia;San JosÃ©;junio;2021;1
+Mammalia;LimÃ³n;junio;2021;1
 Mammalia;Alajuela;junio;2021;1
-Mammalia;Limón;julio;2021;1
+Mammalia;LimÃ³n;julio;2021;1
 Mammalia;Alajuela;julio;2021;1
 Mammalia;Guanacaste;julio;2021;9
 Mammalia;Cartago;julio;2021;1
 Mammalia;Puntarenas;julio;2021;8
-Mammalia;San José;agosto;2021;1
+Mammalia;San JosÃ©;agosto;2021;1
 Mammalia;Guanacaste;agosto;2021;9
 Mammalia;Puntarenas;agosto;2021;4
-Mammalia;Limón;setiembre;2021;1
+Mammalia;LimÃ³n;setiembre;2021;1
 Mammalia;Puntarenas;setiembre;2021;1
 Mammalia;Guanacaste;setiembre;2021;3
-Mammalia;San José;octubre;2021;1
+Mammalia;San JosÃ©;octubre;2021;1
 Mammalia;Guanacaste;octubre;2021;2
 Mammalia;Puntarenas;octubre;2021;1
-Mammalia;Limón;octubre;2021;1
+Mammalia;LimÃ³n;octubre;2021;1
 Mammalia;Puntarenas;noviembre;2021;4
 Mammalia;Guanacaste;noviembre;2021;4
-Mammalia;Limón;noviembre;2021;2
+Mammalia;LimÃ³n;noviembre;2021;2
 Mammalia;Heredia;noviembre;2021;1
 Mammalia;Puntarenas;diciembre;2021;1
 Mammalia;Guanacaste;diciembre;2021;2
 Mammalia;Alajuela;diciembre;2021;1
-Mammalia;Limón;diciembre;2021;1
+Mammalia;LimÃ³n;diciembre;2021;1
 Mammalia;Puntarenas;enero;2022;1
-Mammalia;Limón;enero;2022;1
+Mammalia;LimÃ³n;enero;2022;1
 Mammalia;Guanacaste;enero;2022;1
-Mammalia;Limón;febrero;2022;1
-Mammalia;San José;marzo;2022;1
+Mammalia;LimÃ³n;febrero;2022;1
+Mammalia;San JosÃ©;marzo;2022;1
 Mammalia;Puntarenas;marzo;2022;1
 Mammalia;Heredia;abril;2022;1
 Mammalia;Guanacaste;abril;2022;2
-Mammalia;San José;mayo;2022;2
+Mammalia;San JosÃ©;mayo;2022;2
 Mammalia;Guanacaste;mayo;2022;6
 Mammalia;Cartago;mayo;2022;2
-Mammalia;San José;abril;2022;1
+Mammalia;San JosÃ©;abril;2022;1
 Mammalia;Guanacaste;junio;2022;5
 Mammalia;Guanacaste;julio;2022;3
-Mammalia;San José;julio;2022;2
+Mammalia;San JosÃ©;julio;2022;2
 Mammalia;Puntarenas;julio;2022;1
-Mammalia;Limón;julio;2022;1
+Mammalia;LimÃ³n;julio;2022;1
 Mammalia;Heredia;agosto;2022;2
-Mammalia;Limón;agosto;2022;1
-Mammalia;San José;agosto;2022;1
+Mammalia;LimÃ³n;agosto;2022;1
+Mammalia;San JosÃ©;agosto;2022;1
 Mammalia;Puntarenas;agosto;2022;6
 Mammalia;Guanacaste;agosto;2022;2
 Mammalia;Alajuela;agosto;2022;1
-Mammalia;San José;setiembre;2022;1
+Mammalia;San JosÃ©;setiembre;2022;1
 Mammalia;Puntarenas;setiembre;2022;1
-Mammalia;Limón;setiembre;2022;1
+Mammalia;LimÃ³n;setiembre;2022;1
 Mammalia;Guanacaste;setiembre;2022;1
 Mammalia;Heredia;octubre;2022;1
-Mammalia;Limón;octubre;2022;2
+Mammalia;LimÃ³n;octubre;2022;2
 Reptilia;Guanacaste;diciembre;2013;11
 Reptilia;Guanacaste;enero;2014;1
 Reptilia;Guanacaste;abril;2014;1
 Reptilia;Alajuela;abril;2014;2
-Reptilia;Limón;abril;2014;21
-Reptilia;Limón;mayo;2014;12
+Reptilia;LimÃ³n;abril;2014;21
+Reptilia;LimÃ³n;mayo;2014;12
 Reptilia;Alajuela;mayo;2014;6
 Reptilia;Guanacaste;mayo;2014;1
-Reptilia;San José;mayo;2014;1
+Reptilia;San JosÃ©;mayo;2014;1
 Reptilia;Guanacaste;julio;2014;1
-Reptilia;Limón;agosto;2014;1
+Reptilia;LimÃ³n;agosto;2014;1
 Reptilia;Guanacaste;agosto;2014;1
 Reptilia;Heredia;setiembre;2014;1
 Reptilia;Puntarenas;setiembre;2014;4
@@ -392,30 +392,30 @@ Reptilia;Puntarenas;diciembre;2014;2
 Reptilia;Puntarenas;febrero;2015;3
 Reptilia;Guanacaste;marzo;2015;3
 Reptilia;Alajuela;marzo;2015;1
-Reptilia;Limón;marzo;2015;1
+Reptilia;LimÃ³n;marzo;2015;1
 Reptilia;Heredia;abril;2015;1
 Reptilia;Heredia;mayo;2015;2
-Reptilia;Limón;mayo;2015;1
-Reptilia;San José;junio;2015;1
-Reptilia;Limón;junio;2015;6
+Reptilia;LimÃ³n;mayo;2015;1
+Reptilia;San JosÃ©;junio;2015;1
+Reptilia;LimÃ³n;junio;2015;6
 Reptilia;Puntarenas;julio;2015;1
 Reptilia;Guanacaste;agosto;2015;2
-Reptilia;Limón;agosto;2015;2
+Reptilia;LimÃ³n;agosto;2015;2
 Reptilia;Puntarenas;agosto;2015;1
-Reptilia;Limón;octubre;2015;1
-Reptilia;Limón;noviembre;2015;1
+Reptilia;LimÃ³n;octubre;2015;1
+Reptilia;LimÃ³n;noviembre;2015;1
 Reptilia;Cartago;noviembre;2015;1
-Reptilia;Limón;diciembre;2015;1
+Reptilia;LimÃ³n;diciembre;2015;1
 Reptilia;Puntarenas;diciembre;2015;1
-Reptilia;Limón;febrero;2016;1
+Reptilia;LimÃ³n;febrero;2016;1
 Reptilia;Guanacaste;marzo;2016;2
 Reptilia;Puntarenas;abril;2016;22
-Reptilia;San José;abril;2016;2
+Reptilia;San JosÃ©;abril;2016;2
 Reptilia;Alajuela;abril;2016;1
 Reptilia;Cartago;abril;2016;1
-Reptilia;San José;mayo;2016;1
+Reptilia;San JosÃ©;mayo;2016;1
 Reptilia;Puntarenas;junio;2016;2
-Reptilia;Limón;junio;2016;2
+Reptilia;LimÃ³n;junio;2016;2
 Reptilia;Puntarenas;mayo;2016;1
 Reptilia;Puntarenas;julio;2016;1
 Reptilia;Puntarenas;noviembre;2016;1
@@ -442,9 +442,9 @@ Reptilia;Guanacaste;abril;2020;1
 Reptilia;Alajuela;mayo;2020;1
 Reptilia;Puntarenas;mayo;2020;1
 Reptilia;Heredia;junio;2020;2
-Reptilia;Limón;junio;2020;1
+Reptilia;LimÃ³n;junio;2020;1
 Reptilia;Puntarenas;julio;2020;1
-Reptilia;San José;julio;2020;1
+Reptilia;San JosÃ©;julio;2020;1
 Reptilia;Guanacaste;agosto;2020;1
 Reptilia;Cartago;agosto;2020;1
 Reptilia;Guanacaste;setiembre;2020;1
@@ -464,34 +464,34 @@ Reptilia;Guanacaste;marzo;2021;2
 Reptilia;Cartago;marzo;2021;1
 Reptilia;Heredia;abril;2021;1
 Reptilia;Guanacaste;mayo;2021;3
-Reptilia;San José;mayo;2021;1
+Reptilia;San JosÃ©;mayo;2021;1
 Reptilia;Alajuela;mayo;2021;1
 Reptilia;Guanacaste;junio;2021;6
 Reptilia;Alajuela;junio;2021;2
 Reptilia;Alajuela;julio;2021;2
 Reptilia;Guanacaste;julio;2021;3
-Reptilia;Limón;julio;2021;1
+Reptilia;LimÃ³n;julio;2021;1
 Reptilia;Guanacaste;agosto;2021;3
-Reptilia;San José;agosto;2021;1
+Reptilia;San JosÃ©;agosto;2021;1
 Reptilia;Puntarenas;agosto;2021;2
-Reptilia;Limón;setiembre;2021;1
+Reptilia;LimÃ³n;setiembre;2021;1
 Reptilia;Alajuela;octubre;2021;2
-Reptilia;San José;noviembre;2021;1
+Reptilia;San JosÃ©;noviembre;2021;1
 Reptilia;Guanacaste;noviembre;2021;3
 Reptilia;Puntarenas;noviembre;2021;1
-Reptilia;Limón;noviembre;2021;1
+Reptilia;LimÃ³n;noviembre;2021;1
 Reptilia;Alajuela;diciembre;2021;1
 Reptilia;Puntarenas;diciembre;2021;1
 Reptilia;Alajuela;enero;2022;1
-Reptilia;San José;enero;2022;1
+Reptilia;San JosÃ©;enero;2022;1
 Reptilia;Puntarenas;marzo;2022;1
 Reptilia;Heredia;abril;2022;1
 Reptilia;Alajuela;abril;2022;2
 Reptilia;Guanacaste;abril;2022;2
-Reptilia;Limón;abril;2022;1
+Reptilia;LimÃ³n;abril;2022;1
 Reptilia;Guanacaste;mayo;2022;6
 Reptilia;Puntarenas;mayo;2022;3
-Reptilia;San José;mayo;2022;1
+Reptilia;San JosÃ©;mayo;2022;1
 Reptilia;Alajuela;mayo;2022;2
 Reptilia;Alajuela;junio;2022;1
 Reptilia;Guanacaste;junio;2022;2
